@@ -1,0 +1,14 @@
+Experiment No: 8
+
+a. 16 bit addition
+b. Sum of n numbers
+c. Count of odd and even numbers
+d. Largest amoung n numbers
+e. Display a string
+f. Change the case of characters
+g. Print system date
+h. Print system time
+i. Floating point addition
+j. Floating point subtraction
+k. Password checking
+l. Count in decimal with timedelay
